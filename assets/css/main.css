@@ -1296,6 +1296,10 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background-image: url("../../images/meabird.png");
+        	background-size: contain;
+        	background-repeat: no-repeat;
+        	background-position: center;
 		}
 
 			#header .logo .icon:before {
@@ -1659,8 +1663,4 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-    .logo img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-    }
+
