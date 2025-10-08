@@ -1303,7 +1303,7 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				font-size: 2rem;
+				display: none;
 			}
 
 		#header .content {
@@ -1663,4 +1663,5 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
